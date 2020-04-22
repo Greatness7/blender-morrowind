@@ -17,7 +17,7 @@ Latest Version
 
 - You can download the latest version from the `plugin releases page`_.
 
-.. _plugin releases page: https://github.com/Greatness7/io_scene_mw/releases
+.. _plugin releases page: https://github.com/Greatness7/io_scene_mw/releases/tag/0.8.1
 
 
 Recommendations
