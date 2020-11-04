@@ -29,9 +29,9 @@ Material Settings
 - **Emissive Color**
     Defines the emissive color to be applied to the material. Brighter colors will cause the material to appear self-illuminating. A pure black color would leave the texture unchanged.
 - **Alpha Blend**
-    Enables alpha blending on the material which can be burther adjusted using the *Opacity* slider.
+    Enables alpha blending on the material which can be further adjusted using the *Opacity* slider.
 - **Alpha Clip**
-    Enables alpha clipping on the material which can be further adjusted using the *Thresold* slider.
+    Enables alpha clipping on the material which can be further adjusted using the *Threshold* slider.
 
 .. _Vertex Paint Mode: https://docs.blender.org/manual/en/latest/sculpt_paint/vertex_paint/introduction.html
 
