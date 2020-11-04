@@ -9,9 +9,9 @@ Material Creation
 
    <video controls src="../_static/OpenImage_1280x704.m4v" width="640" height="352"/></video>
 
-The recommended way to apply materials and textures to your Morrowind assets is to use the custom *Morrowind Shader* interface provided by this plugin. You can find it in under the *Morrowind* panel in the *Material Properties* tab of the `Properties Editor`_.
+The recommended way to apply materials and textures to your Morrowind assets is to use the *Morrowind Shader* interface provided by the plugin. You can find it in under the *Material Properties/Morrowind* panel in the `Properties Editor`_.
 
-.. Important:: In order to view materials made by *Morrowind Shader* you must set your `Viewport Shading`_ method to **Material Preview**.
+.. Important:: In order to view materials made by this interface you must set your `Viewport Shading`_ method to **Material Preview**.
 
 .. _Properties Editor: https://docs.blender.org/manual/en/latest/editors/properties_editor.html
 .. _Viewport Shading: https://docs.blender.org/manual/en/latest/editors/3dview/display/shading.html
@@ -25,7 +25,7 @@ Material Settings
 - **Vertex Colors**
     Toggles whether the vertex colors assigned in `Vertex Paint Mode`_ will influence the material.
 - **Diffuse Color**
-    Defines the diffuse color to be applied to the material. This color is multiplied with the colors of the assigned texture. A pure white color would leave the texture unchanged.
+    Defines the diffuse color to be applied to the material. This color is multiplied with any texture colors. A pure white color would leave the texture unchanged.
 - **Emissive Color**
     Defines the emissive color to be applied to the material. Brighter colors will cause the material to appear self-illuminating. A pure black color would leave the texture unchanged.
 - **Alpha Blend**
