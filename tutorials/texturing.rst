@@ -5,10 +5,11 @@ Texturing
 Material Creation
 -----------------
 
-.. image:: ../_static/create_morrowind_shader.png
+.. raw:: html
+
+   <video controls src="../_static/OpenImage_1280x704.m4v" width="640" height="352"/></video>
 
 The recommended way to apply materials and textures to your Morrowind assets is to use the custom *Morrowind Shader* interface provided by this plugin. You can find it in under the *Morrowind* panel in the *Material Properties* tab of the `Properties Editor`_.
-
 
 .. Important:: In order to view materials made by *Morrowind Shader* you must set your `Viewport Shading`_ method to **Material Preview**.
 
@@ -55,19 +56,7 @@ Texture Slots
 - **Decal Texture**
     Decal textures are used to overlay additional textures. The alpha channel of the texture defines the blending between the decal texture and the texture underneath.
 
-
-Texture Slot Image
-------------------
-
-.. raw:: html
-
-   <video controls src="../_static/OpenImage_1280x704.m4v" width="640" height="352"/></video>
-
-You can specify the image that will be used by a given texture slot by expanding the associated panel using the provided buttons.
-
 .. Important:: The Morrowind engine requires textures to be **dds**, **tga**, or **bmp** format with **dimensions that are a power of two** (e.g. 256x256).
-
-.. _Vertex Paint Mode: https://docs.blender.org/manual/en/latest/sculpt_paint/vertex_paint/introduction.html
 
 
 Texture Slot Options
