@@ -47,6 +47,9 @@ Texture Slots
 - **Dark Texture**
     Dark textures are multipled with the base texture and thus will darken colors. A pure white texture would leave the colors unchanged.
 
+    .. image:: ../_static/dark_texture_example.png
+        :width: 400
+
 - **Detail Texture**
     Detail textures are multiplied with the base texture and then multiplied again by two. This allows the detail texture to either darken *or* brighten colors. A pure gray texture would leave the colors unchanged.
 
