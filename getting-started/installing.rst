@@ -11,7 +11,7 @@ Standard Install
 
 The standard way to install is via Blender's ``Edit->Preferences->Add-ons`` interface. Pressing the ``Install`` button there will bring up a file-select window where you can select the ``io_scene_mw.zip`` archive that you acquired in the :ref:`Downloading` section.
 
-For more information, see the `Add-ons`_ page of the Blender manual.
+.. Note:: For more information, see the `Add-ons`_ page of the Blender manual.
 
 .. _Add-ons: https://docs.blender.org/manual/en/latest/editors/preferences/addons.html
 

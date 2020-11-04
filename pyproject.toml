@@ -13,5 +13,5 @@ sphinx_rtd_theme = "^0.4.3"
 rstcheck = "^3.3.1"
 
 [build-system]
-requires = ["poetry>=0.12"]
+requires = ["poetry>=1.1.0"]
 build-backend = "poetry.masonry.api"

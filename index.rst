@@ -19,4 +19,5 @@ Welcome to the documentation for the Morrowind Blender Plugin! This is an open s
    :maxdepth: 2
    :caption: Tutorials
 
+   tutorials/basics
    tutorials/texturing
