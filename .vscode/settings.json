@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\Admin\\Programs\\Python 3.8.2\\python.exe",
+    "python.pythonPath": ".venv\\Scripts\\python.exe",
     "restructuredtext.confPath": "${workspaceFolder}",
 }
