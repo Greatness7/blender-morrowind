@@ -5,7 +5,7 @@ Downloading
 Requirements
 ------------
 
-- **Blender 2.93.0 (64-bit)** or newer. Available on the `official Blender download page`_. Note that this plugin is not compatible with 32-bit builds of Blender!
+- **Blender 3.0 (64-bit)** or newer. Available on the `official Blender download page`_. Note that this plugin is not compatible with 32-bit builds of Blender!
 - **Windows Users** will need the `Microsoft Visual Studio 2019 Redistributable (x64)`_ package. You may already have this on your system, but running the executable is safe and highly recommended.
 
 .. _official Blender download page: https://blender.org/download/
