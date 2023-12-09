@@ -5,12 +5,12 @@ description = ""
 authors = ["Greatness7 <Greatness7@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
-sphinx = "^2.4.4"
-sphinx_rtd_theme = "^0.4.3"
+python = "^3.11"
+sphinx = "^7.2.6"
+sphinx-rtd-theme = "^2.0.0"
 
 [tool.poetry.dev-dependencies]
-rstcheck = "^3.3.1"
+rstcheck = "^3.5.0"
 
 [build-system]
 requires = ["poetry>=1.1.0"]
